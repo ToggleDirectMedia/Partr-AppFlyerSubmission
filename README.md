@@ -8,6 +8,8 @@ Downloading App Instructions
 4. Once the app is installed, click done
 5. The app is now installed and to launch!
 
+* Might need to skip Play Protect
+
 Partr App Instructions
 
 About: Partr is an _All-In-One_ app designed to help you send various platforms through a single share. By combining your contact information and social media platforms into one location, we simplify the everyday sharing process.
